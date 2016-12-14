@@ -18,6 +18,7 @@ public class pussy implements Runnable {
 			Thread.sleep(time);
 		}catch(Exception e){	}
 		System.out.printf("Поток %s проснулся и закончился\n", name);
+		System.out.printf("Поток %s проснулся и закончился\n", name);
 	}
 	
 
